@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
     //Status
     private boolean start_flg = false;
     private boolean action_flg = false;
-    private boolean pink_flg = false;
 
 
     @Override
